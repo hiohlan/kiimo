@@ -91,6 +91,9 @@ In this example, we use [Bun](https://bun.sh):
 
 # Changelog
 
+## 2026/1/16
+- Fixed: missing ᩀ(อย) in TaiTham 
+
 ## 2025/08/04a
 - Improved 16x16px icon for Mac
 - Swap some key for TaiTham
