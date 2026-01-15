@@ -91,7 +91,7 @@ In this example, we use [Bun](https://bun.sh):
 
 # Changelog
 
-## 2026/1/16
+## 2026/01/16
 - Fixed: missing ᩀ(อย) in TaiTham 
 
 ## 2025/08/04a
