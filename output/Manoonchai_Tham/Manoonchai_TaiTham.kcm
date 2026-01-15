@@ -486,8 +486,8 @@ key B {
 key N {
     label: '\u1a23'
     base: '\u1a23'
-    shift: '\u1a73'
-    capslock: '\u1a73'
+    shift: '\u1a40'
+    capslock: '\u1a40'
     capslock+shift: '\u1a23'
     ralt: '\u25cc'
     ralt+shift: '\u003c'
