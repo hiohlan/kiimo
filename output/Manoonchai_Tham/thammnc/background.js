@@ -54,7 +54,7 @@ var lut = {
 "KeyC": { "plain": {"plain": "ᨴ", "shifted": "᩻"}, "alternate": {"plain": "᪠", "shifted":""}, "code": "KeyC"},
 "KeyV": { "plain": {"plain": "ᨿ", "shifted": "ᨱ"}, "alternate": {"plain": "᪦", "shifted":""}, "code": "KeyV"},
 "KeyB": { "plain": {"plain": "ᨧ", "shifted": "ᩭ"}, "alternate": {"plain": "ᩏ", "shifted":""}, "code": "KeyB"},
-"KeyN": { "plain": {"plain": "ᨣ", "shifted": "ᩳ"}, "alternate": {"plain": "◌", "shifted":"<"}, "code": "KeyN"},
+"KeyN": { "plain": {"plain": "ᨣ", "shifted": "ᩀ"}, "alternate": {"plain": "◌", "shifted":"<"}, "code": "KeyN"},
 "KeyM": { "plain": {"plain": "ᩦ", "shifted": "᩼"}, "alternate": {"plain": "ᩎ", "shifted":">"}, "code": "KeyM"},
 "Comma": { "plain": {"plain": "ᨯ", "shifted": "ᩆ"}, "alternate": {"plain": ",", "shifted":"᪪"}, "code": "Comma"},
 "Period": { "plain": {"plain": "ᩡ", "shifted": "ᩛ"}, "alternate": {"plain": ".", "shifted":"᪫"}, "code": "Period"},
