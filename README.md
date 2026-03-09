@@ -91,6 +91,10 @@ In this example, we use [Bun](https://bun.sh):
 
 # Changelog
 
+## 2026/03/10
+- CHORE!: drop yarn, migrate tsx to bun
+- Fixed?: JIS, add quote mark, and periodcomma at underbar key
+
 ## 2026/01/16
 - Fixed: missing ᩀ(อย) in TaiTham 
 
