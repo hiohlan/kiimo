@@ -24,6 +24,9 @@ Modify, and generate keyboard layout from single JSON file. Built with TypeScrip
   See the mailing list thread:  **[(xkb) how to map a key to multiple characters?](https://lists.x.org/archives/xorg/2009-January/042282.html)**  
   For instance, you cannot configure the “A” key to send “aaaaaaaaaa”.
 
+- **No Dead keys:**  
+  See the upstream issue: https://github.com/Manoonchai/kiimo/issues/17
+
 # How to Download Generated Layout(s)
 
 ## Download WHOLE repo
